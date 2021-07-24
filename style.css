@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero-image {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgb(10, 34, 57, 0.9), rgba(10, 34, 57, 0.9)),
+    url("./Img/Layer\ 2092\ copy\ 4@1X.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+  /* background-color: #000080; */
+}
+.layer_image {
+  position: "absolute";
+  text-align: "center";
+  margin-left: 40%;
+}
+.part2 {
+  width: 100vw;
+  height: 100vh;
+}
+.btn_1 {
+  /* height: 55px;
+  width: 539px;
+  background: #ed861c;
+  border: none;
+  color: white;
+  border-radius: 124px;
+  margin-top: 14px;
+  font-size: smaller;
+  margin-left: -100px; */
+  height: 38px;
+  width: 430px;
+  background: #ed861c;
+  border: none;
+  color: white;
+  border-radius: 124px;
+  margin-top: 6px;
+  font-size: 12px;
+  margin-left: 426px;
+}
+.header-text {
+  font-family: "Lato", sans-serif;
+  /* font-size: 20px;
+    font-weight: 100; */
+}
+#heading-pt1 {
+  color: white;
+  margin-left: 503px;
+  font-size: 20px;
+  font-weight: 100;
+}
+#heading-pt2 {
+  color: #ed861c;
+  margin-left: 390px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: -12px;
+}
+#heading-pt3 {
+  color: white;
+  margin-left: 390px;
+  font-size: 20px;
+  font-weight: 100;
+  margin-top: -11px;
+}
+#para-1 {
+  color: white;
+  margin-left: 450px;
+  font-size: 10px;
+}
+.fa-check-circle {
+  background: #ed861c;
+}
+
+.container-para {
+  color: white;
+  font-size: 13px;
+  margin-left: 50px;
+  margin-top: -25px;
+}
+.technology-img {
+  margin-left: 140px;
+  height: 250px;
+}
+.icon-div {
+  margin-left: 39px;
+  margin-top: -11px;
+  
+}
+.access-btn {
+  border-radius: 50px;
+  background: #00ad9c;
+  border: none;
+  color: white;
+  margin-left: 540px;
+  padding: 5px 10px;
+  width: 250px;
+  margin-top: -10px;
+}
+.logo-pt{
+  margin-left: 550px;
+}
+.bg-img{
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgb(248,237,225,0.9), rgb(248,237,225,0.9)),url("./img/bg_img.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+}
+
+h2{
+  color:#ED861C;
+  text-align: center;
+  font-size: 3rem; 
+}
+h3{
+  color: brown;
+  text-align: center;
+  font-size: 1.75rem;
+}
+.center{
+  height:300px; 
+  width:500px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-left: 30%;
+  margin-top: 7%;
+  background: none;
+}
